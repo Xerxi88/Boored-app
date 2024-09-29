@@ -57,4 +57,4 @@ Això crearà un directori build amb els fitxers optimitzats per a producció.
 
 ### Demo
 
-Pots veure una demo en funcionament de l'aplicació aquí: 
+Pots veure una demo en funcionament de l'aplicació aquí: [Bored API](https://boored-app.netlify.app/)
